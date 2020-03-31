@@ -1,4 +1,4 @@
 # MonPortfolio
 Un piti portfolio ouvert à tous ^^
 
-À mettre dans C://wamp/www/
+Le dossier 'portfolio' est à mettre dans C:\wamp\www\
